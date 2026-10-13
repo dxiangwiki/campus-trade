@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcampus_trade_frontend"]=self["webpackChunkcampus_trade_frontend"]||[]).push([[531],{9531:function(e,n,u){u.r(n);var l,t,a=u(1656),r={},s=(0,a.A)(r,l,t,!1,null,null,null);n["default"]=s.exports}}]);
+//# sourceMappingURL=531.f3dd8585.js.map
