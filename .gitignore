@@ -1,0 +1,24 @@
+# ============ 通用 ============
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# ============ 后端 (SpringBoot) ============
+campus-trade-backend/target/
+campus-trade-backend/.idea/
+campus-trade-backend/*.iml
+campus-trade-backend/mvnw
+campus-trade-backend/mvnw.cmd
+campus-trade-backend/.mvn/
+
+# ============ 前端 (Vue) ============
+campus-trade-frontend/node_modules/
+campus-trade-frontend/dist/
+campus-trade-frontend/.idea/
+campus-trade-frontend/npm-debug.log*
+campus-trade-frontend/yarn-debug.log*
+campus-trade-frontend/yarn-error.log*
+campus-trade-frontend/.env.local
+campus-trade-frontend/.env.*.local
